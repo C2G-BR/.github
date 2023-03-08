@@ -4,6 +4,8 @@ This Organization covers all the amazing Projects created together by [Bastian B
 
 > Please note that the code and contributions in this GitHub repository were created through a collaborative effort by [@Irish-77](https://github.com/Irish-77) and [@Ronho](https://github.com/Ronho), and both contributors acknowledge that their work is of equal value.
 
+We can also be reached through our website: [berle.dev](berle.dev) - [ronho.dev](ronho.dev)
+
 ## Projects
 Here you get a quick overview of each project we have done so far.
 
