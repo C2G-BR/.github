@@ -11,5 +11,6 @@ Here you get a quick overview of each project we have done so far:
 * [Coin2Gether](https://github.com/C2G-BR/Coin2Gether)
 * [Pac-Man-AI](https://github.com/C2G-BR/Pac-Man-AI)
 * [Active-Lane-Keeping-Assistant](https://github.com/C2G-BR/Active-Lane-Keeping-Assistant)
+* [Intelligent-Charging-Station](https://github.com/C2G-BR/Intelligent-Charging-Station)
 * [Drone Security (AIC)](https://github.com/C2G-BR/Drone-Security)
 * [Machine Learning Cheat Sheets](https://github.com/C2G-BR/Machine-Learning-Cheat-Sheets)
