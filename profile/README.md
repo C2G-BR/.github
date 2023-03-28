@@ -7,7 +7,9 @@ This Organization covers all the amazing Projects created together by [Bastian B
 We can also be reached through our website: [berle.dev](https://berle.dev) - [ronho.dev](https://ronho.dev)
 
 ## Projects
-Here you get a quick overview of each project we have done so far.
-
-##### [Coin2Gether](https://github.com/C2G-BR/Coin2Gether)
-##### [Machine Learning Cheat Sheets](https://github.com/C2G-BR/Machine-Learning-Cheat-Sheets)
+Here you get a quick overview of each project we have done so far:
+* [Coin2Gether](https://github.com/C2G-BR/Coin2Gether)
+* [Pac-Man-AI](https://github.com/C2G-BR/Pac-Man-AI)
+* [Active-Lane-Keeping-Assistant](https://github.com/C2G-BR/Active-Lane-Keeping-Assistant)
+* [Drone Security (AIC)](https://github.com/C2G-BR/Drone-Security)
+* [Machine Learning Cheat Sheets](https://github.com/C2G-BR/Machine-Learning-Cheat-Sheets)
