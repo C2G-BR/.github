@@ -15,3 +15,4 @@ Here you get a quick overview of each project we have done so far:
 * [Drone Security (AIC)](https://github.com/C2G-BR/Drone-Security)
 * [Machine Learning Cheat Sheets](https://github.com/C2G-BR/Machine-Learning-Cheat-Sheets)
 * [Coin Counter App](https://github.com/C2G-BR/Coin-Counter-2-Gether)
+* [melanoma-classification](https://github.com/C2G-BR/melanoma-classification)
